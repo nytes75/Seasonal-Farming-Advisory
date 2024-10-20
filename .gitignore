@@ -1,5 +1,8 @@
-archive
-config 
-main 
+# Folders
+/archive
+/config 
+/main
+
+# Files
 inter.ipynb
 summary.ipynb
