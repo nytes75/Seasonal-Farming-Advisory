@@ -2,7 +2,7 @@
 /archive
 /config 
 /main
-
+/data
 # Files
 inter.ipynb
 summary.ipynb
